@@ -1,0 +1,47 @@
+.item {
+  border: 2px solid red;
+  border-radius: 12px;
+  color: white;
+  transition: all 0.5s ease-in-out;
+}
+
+  .add-btn {
+    font-size: 10px;
+
+  }
+
+  h4 {
+    height: 75px;
+    overflow: hidden;
+    padding: 5px 15px;
+    font-size: 12px;
+    font-weight: bold;
+    background-color: #eee;
+    margin-top: 10px;
+    color: black;
+  }
+
+  .content {
+    padding: 10px;
+
+  }
+
+  .item-salary {
+    font-size: 10px;
+    margin-left: 10px;
+    background-color: #f1b4b4;
+    padding: 3px 7px;
+    border-radius: 10px;
+  }
+&:hover{
+  transform: scale(1.1 );
+
+}
+  img {
+    width: 100%;
+    height: 200px;
+    border-radius: 10px;
+  }
+p{
+  color: black;
+}
